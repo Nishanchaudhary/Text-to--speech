@@ -1,6 +1,6 @@
 # Text-to-Speech Converter
 
-A simple and intuitive Text-to-Speech (TTS) web application that converts text into speech using the Web Speech API. This project is built with HTML, CSS, and JavaScript, making it lightweight and easy to use.
+A simple and intuitive Text-to-Speech (TTS) web application that converts text into speech. This project is built with React js and Tailwindcss making it lightweight and easy to use.
 
 ## Live Demo
 
