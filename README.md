@@ -19,3 +19,14 @@ Check out the live demo of the project here: [Text-to-Speech Live Demo](https://
    Clone this repository to your local machine using the following command:
    ```bash
    git clone https://github.com/Nishanchaudhary/Text-to--speech.git
+
+   ```
+   ```bash
+   cd Text-to--speech
+   ```
+   ```bash
+   npm install
+   ```
+   ```bash
+   npm run dev
+   ```
